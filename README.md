@@ -9,10 +9,10 @@ Student and Developer located in Louisville, Kentucky.
 A collection of some of my work and projects over the last few years, along with some projects completed for course work. 
 
 ***Active***
-- Portfolio Website (.NET Model View Controller) 
-		Overkill for a portfolio site for sure, but a good opportunity to get more experience with ASP.NET MVC.
 - [Artifact / Chess Dungeon Game](https://github.com/speedacm/GD2024ChessDungeon)
 		Current game development project for Speed Association of Computing Machinery, built in Unreal Engine using blueprints and C++.
+- Portfolio Website (.NET Model View Controller) 
+
 
 ***Relevant Coursework***
 - Automata Theory
