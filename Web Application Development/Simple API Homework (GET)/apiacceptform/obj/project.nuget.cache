@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FRRprUDvl6+WURyOERJItEldr1sUdgdxzd0KgsZcbOU/GuoRuLznIGb/XG1rumgaV6+HfdHL3lx7Dn31KnekyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Devin\\Desktop\\Portfolio Materials CIS410\\Web Application Development\\Simple API Homework (GET)\\apiacceptform\\apiacceptform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Devin\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Devin\\.nuget\\packages\\system.text.json\\8.0.1\\system.text.json.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

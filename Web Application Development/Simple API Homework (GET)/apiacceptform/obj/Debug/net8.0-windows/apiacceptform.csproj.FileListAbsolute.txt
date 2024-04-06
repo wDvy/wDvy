@@ -1,0 +1,32 @@
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\bin\Debug\net8.0-windows\apiacceptform.exe
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\bin\Debug\net8.0-windows\apiacceptform.deps.json
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\bin\Debug\net8.0-windows\apiacceptform.runtimeconfig.json
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\bin\Debug\net8.0-windows\apiacceptform.dll
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\bin\Debug\net8.0-windows\apiacceptform.pdb
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.Form1.resources
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.csproj.GenerateResource.cache
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.AssemblyInfoInputs.cache
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.AssemblyInfo.cs
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.csproj.CoreCompileInputs.cache
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.dll
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\obj\Debug\net8.0-windows\refint\apiacceptform.dll
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.pdb
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.genruntimeconfig.cache
+C:\Users\Devin\source\repos\apiacceptform\apiacceptform\obj\Debug\net8.0-windows\ref\apiacceptform.dll
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\bin\Debug\net8.0-windows\apiacceptform.exe
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\bin\Debug\net8.0-windows\apiacceptform.deps.json
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\bin\Debug\net8.0-windows\apiacceptform.runtimeconfig.json
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\bin\Debug\net8.0-windows\apiacceptform.dll
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\bin\Debug\net8.0-windows\apiacceptform.pdb
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.Form1.resources
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.csproj.GenerateResource.cache
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.AssemblyInfoInputs.cache
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.AssemblyInfo.cs
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.csproj.CoreCompileInputs.cache
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.dll
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\obj\Debug\net8.0-windows\refint\apiacceptform.dll
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.pdb
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\obj\Debug\net8.0-windows\apiacceptform.genruntimeconfig.cache
+C:\Users\Devin\Desktop\Portfolio Materials CIS410\Web Application Development\Simple API Homework (GET)\apiacceptform\obj\Debug\net8.0-windows\ref\apiacceptform.dll
