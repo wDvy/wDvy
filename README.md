@@ -17,7 +17,7 @@ A collection of some of my work and projects over the last few years, along with
 ***Relevant Coursework***
 - Automata Theory
 - Algorithms
-- Data Structures (C++)
+- Data Structures (C++) [Data Structures](https://github.com/wDvy/repo/)
 - Analytical Programming (Python)
 - Software Development I & II (C#)
 - Web Application Development (ASP.NET)
