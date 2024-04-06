@@ -17,12 +17,12 @@ A collection of some of my work and projects over the last few years, along with
 ***Relevant Coursework***
 - Automata Theory
 - Algorithms
-- Data Structures (C++) [Data Structures](https://github.com/wDvy/repo/)
-- Analytical Programming (Python)
-- Software Development I & II (C#)
-- Web Application Development (ASP.NET)
+- [Data Structures C++](https://github.com/wDvy/repo/](https://github.com/wDvy/wDvy/tree/main/Data%20Structures))
+- [Analytical Programming (Python)](https://github.com/wDvy/wDvy/tree/main/Analytical%20Programming)
+- [Software Development I & II (C#)](https://github.com/wDvy/wDvy/tree/main/Software%20Development)
+- [Web Application Development (ASP.NET)](https://github.com/wDvy/wDvy/tree/main/Web%20Application%20Development/Simple%20API%20Homework%20(GET))
 - Design of Databases (Microsoft SQL Server)
-- Systems Analysis and Design
+- [Systems Analysis and Design](https://github.com/wDvy/wDvy/tree/main/Systems%20Analysis%20and%20Design)
 
 ***Inactive***
 - [2D Platformer (Catformer)](https://github.com/speedacm/Game-Dev-Catformer)
