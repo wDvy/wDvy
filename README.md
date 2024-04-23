@@ -25,12 +25,12 @@ Projects Currently Listed on Github:
 # Undergrad Portfolio
 
 ## Web Development Project
-This project was the culimnation of the semester's work in full stack development. The project consists of three major parts: a Database (hosted on Azure and manged through Microsoft SQL server managment studio), an ASP.NET API, and a front end windows form admin panel application.   
+This project was the culmination of the semester's work in full-stack development. The project consists of three major parts: a Database (hosted on Azure and managed through Microsoft SQL server management studio), an ASP.NET API, and a front-end windows form admin panel application.   
 
 <details> 
-  <summary> <h2>API Code Example</h2> </summary>
+  <summary> <h3>API Code Example</h3> </summary>
   
-  This Code snippet is pulled from the API portion of the project, and covers 3 of 9 HTTPS requests handled by the API.
+  This Code snippet is pulled from the API portion of the project and covers 3 of 9 HTTPS requests handled by the API.
 
 ```c#
 namespace ChessAPI.Controllers
@@ -110,7 +110,7 @@ Here is A full list of the requests the API handles through the Swagger API util
 ![Api List](Web Application Development/API.PNG)
 
 <details> 
-  <summary> <h2>Application Code Example</h2> </summary>
+  <summary> <h3>Application Code Example</h3> </summary>
   
 ```c#
         //POST request for Users
@@ -200,7 +200,7 @@ Here is A full list of the requests the API handles through the Swagger API util
 A quick example of some data structures and algorithms from Undergrad Courses:
 
 <details> 
-  <summary> <h2>Binary Search Tree Implementation with Binary Search Algorithm</h2> </summary>
+  <summary> <h3>Binary Search Tree Implementation with Binary Search Algorithm</h3> </summary>
 
 ```c++
 #include "BST.h"
@@ -442,7 +442,7 @@ void BST::ResetTree(OrderType order) {
 </details>
 
 <details> 
-  <summary> <h2>Remove Duplicates</h2> </summary>
+  <summary> <h3>Remove Duplicates</h3> </summary>
 
 ### Remove Duplicates II
 
@@ -479,7 +479,7 @@ int removeduplicates(vector<int>& nums){
 
 
 <details> 
-  <summary> <h2>Hashmap - Ransom Note Problem</h2> </summary>
+  <summary> <h3>Hashmap - Ransom Note Problem</h3> </summary>
 
 Given two strings ransomNote and magazine, find out if you can construct the contents of ransomNote with the characters in magazine. Each character can only be used once.
 
