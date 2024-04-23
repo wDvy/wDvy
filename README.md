@@ -9,6 +9,12 @@ Student and Developer located in Louisville, Kentucky.
 <iframe src="https://github.com/wDvy/wDvy/blob/main/DWResume2024-1.pdf" width="500" height="375" 
  type="application/pdf">
 
+
+<details> 
+  <summary>Title </summary>
+   Code Section 
+</details>
+
 ## Projects
 A collection of some of my work and projects over the last few years, along with some projects completed for course work. 
 
