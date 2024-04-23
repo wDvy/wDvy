@@ -200,6 +200,8 @@ namespace ChessAPI.Controllers
 ```
 </details>
 
+## [Full Project](Web Application Development)
+
 ## Data Structures and Algorithms
 A quick example of some data structures and algorithms from Undergrad Courses:
 
