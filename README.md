@@ -24,7 +24,7 @@ Projects Currently Listed on Github:
 
 # Undergrad Portfolio
 <p align="center">
-  <img src="University_of_Louisville_seal.svg.png" width="350" title="Uofl Seal">
+  <img src="University_of_Louisville_seal.svg.png" width="200" title="Uofl Seal">
 </p>
 
 
