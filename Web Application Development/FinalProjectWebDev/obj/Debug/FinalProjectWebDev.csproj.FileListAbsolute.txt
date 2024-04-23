@@ -1,0 +1,62 @@
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\FinalProjectWebDev.exe.config
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\FinalProjectWebDev.exe
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\FinalProjectWebDev.pdb
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Buffers.dll
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Memory.dll
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Text.Json.dll
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.ValueTuple.dll
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Buffers.xml
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Memory.xml
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Text.Json.xml
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.ValueTuple.xml
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.csproj.AssemblyReference.cache
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.WebAppFinal.resources
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.Properties.Resources.resources
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.csproj.GenerateResource.cache
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.csproj.CoreCompileInputs.cache
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.csproj.CopyComplete
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.exe
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.pdb
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.editGameForm.resources
+C:\Users\Devin\source\repos\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.editUserForm.resources
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\FinalProjectWebDev.exe.config
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\FinalProjectWebDev.exe
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\FinalProjectWebDev.pdb
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Buffers.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Memory.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Text.Json.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.ValueTuple.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Buffers.xml
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Memory.xml
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Text.Json.xml
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\bin\Debug\System.ValueTuple.xml
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.csproj.AssemblyReference.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.editGameForm.resources
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.editUserForm.resources
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.WebAppFinal.resources
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.Properties.Resources.resources
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.csproj.GenerateResource.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.csproj.CoreCompileInputs.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalPro.F5934A0B.Up2Date
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.exe
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\FinalProjectWebDev\FinalProjectWebDev\obj\Debug\FinalProjectWebDev.pdb
