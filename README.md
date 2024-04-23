@@ -23,6 +23,8 @@ Projects Currently Listed on Github:
 		First game development project for Speed ACM, built in Godot.
 
 # Undergrad Portfolio
+![]()
+
 
 ## Web Development Project
 This project was the culmination of the semester's work in full-stack development. The project consists of three major parts: a Database (hosted on Azure and managed through Microsoft SQL server management studio), an ASP.NET API, and a front-end windows form admin panel application.   
