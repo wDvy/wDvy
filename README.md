@@ -27,11 +27,10 @@ Projects Currently Listed on Github:
 ## Web Development Project
 This project was the culimnation of the semester's work in full stack development. The project consists of three major parts: a Database (hosted on Azure and manged through Microsoft SQL server managment studio), an ASP.NET API, and a front end windows form admin panel application.   
 
-**API Portion**
-This Code snippet is pulled from the API portion of the project, and covers 3 of 9 HTTPS requests handled by the API.
-
 <details> 
-  <summary> Code Snippet </summary>
+  <summary> <strong>API Code Example</strong> </summary>
+  
+  This Code snippet is pulled from the API portion of the project, and covers 3 of 9 HTTPS requests handled by the API.
 
 ```c#
 namespace ChessAPI.Controllers
@@ -110,9 +109,8 @@ namespace ChessAPI.Controllers
 Here is A full list of the requests the API handles through the Swagger API utility:
 ![Api List](Web Application Development/API.PNG)
 
-**Application Portion**
 <details> 
-  <summary> Code Snippet </summary>
+  <summary> <strong>Application Code Example</strong> </summary>
   
 ```c#
         //POST request for Users
