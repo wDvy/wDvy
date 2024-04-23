@@ -1,0 +1,350 @@
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.AssemblyReference.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.AssemblyInfoInputs.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.AssemblyInfo.cs
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.CoreCompileInputs.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.exe
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.deps.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.runtimeconfig.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.pdb
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.ChessAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ChessAPI.props
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChessAPI.props
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChessAPI.props
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\scopedcss\bundle\ChessAPI.styles.css
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.Up2Date
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\refint\ChessAPI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.pdb
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.genruntimeconfig.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\ChessAPI\ChessAPI\obj\Debug\net8.0\ref\ChessAPI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.exe
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.deps.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.runtimeconfig.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.pdb
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.AssemblyReference.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.AssemblyInfoInputs.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.AssemblyInfo.cs
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.CoreCompileInputs.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.ChessAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ChessAPI.props
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChessAPI.props
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChessAPI.props
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\scopedcss\bundle\ChessAPI.styles.css
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.Up2Date
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\refint\ChessAPI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.pdb
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.genruntimeconfig.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ref\ChessAPI.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.exe
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.deps.json
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.runtimeconfig.json
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.pdb
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.AssemblyReference.cache
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.AssemblyInfoInputs.cache
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.AssemblyInfo.cs
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.CoreCompileInputs.cache
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.ChessAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ChessAPI.props
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChessAPI.props
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChessAPI.props
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\scopedcss\bundle\ChessAPI.styles.css
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.CopyComplete
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\refint\ChessAPI.dll
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.pdb
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.genruntimeconfig.cache
+C:\Users\Devin\Documents\Developer\WebDev Final\ChessAPI\ChessAPI\obj\Debug\net8.0\ref\ChessAPI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.exe
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.deps.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.runtimeconfig.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.pdb
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.AssemblyReference.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.AssemblyInfoInputs.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.AssemblyInfo.cs
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.CoreCompileInputs.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.ChessAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ChessAPI.props
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChessAPI.props
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChessAPI.props
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\scopedcss\bundle\ChessAPI.styles.css
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.Up2Date
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\refint\ChessAPI.dll
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.pdb
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.genruntimeconfig.cache
+C:\Users\robde\OneDrive\Desktop\CIS 411 Web App Development\Group 5 Project\Assignments\Assignment 06 Complete Stack\API & MVC\2.0\ChessAPI\ChessAPI\obj\Debug\net8.0\ref\ChessAPI.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.exe
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.deps.json
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.runtimeconfig.json
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\ChessAPI.pdb
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.AssemblyReference.cache
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.AssemblyInfoInputs.cache
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.AssemblyInfo.cs
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.CoreCompileInputs.cache
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.ChessAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ChessAPI.props
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChessAPI.props
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChessAPI.props
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\scopedcss\bundle\ChessAPI.styles.css
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.csproj.CopyComplete
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\refint\ChessAPI.dll
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.pdb
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\ChessAPI.genruntimeconfig.cache
+C:\Users\Devin\Documents\Developer\CIS411WebDevFinal\ChessAPI\ChessAPI\obj\Debug\net8.0\ref\ChessAPI.dll
