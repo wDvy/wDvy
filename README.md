@@ -199,6 +199,7 @@ namespace ChessAPI.Controllers
         }
 ```
 </details>
+
 ### [Full Project](https://github.com/wDvy/wDvy/tree/main/Web%20Application%20Development)
 
 
