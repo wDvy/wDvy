@@ -529,17 +529,11 @@ bool canConstruct(string ransomNote, string magazine) {
 ### [More Algo implementations](https://github.com/wDvy/code-challenges/tree/main)
 
 
-
-
-
-
-
-
+More Courses / Coursework:
 
 - Automata Theory
 - [Analytical Programming (Python)](https://github.com/wDvy/wDvy/tree/main/Analytical%20Programming)
 - [Software Development I & II (C#)](https://github.com/wDvy/wDvy/tree/main/Software%20Development)
-
 - Design of Databases (Microsoft SQL Server)
 - [Systems Analysis and Design](https://github.com/wDvy/wDvy/tree/main/Systems%20Analysis%20and%20Design)
 
