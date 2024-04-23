@@ -200,7 +200,7 @@ namespace ChessAPI.Controllers
 ```
 </details>
 
-### [Full Project](https://github.com/wDvy/wDvy/tree/main/Web%20Application%20Development)
+#### [Full Project](https://github.com/wDvy/wDvy/tree/main/Web%20Application%20Development)
 
 
 
@@ -525,8 +525,8 @@ bool canConstruct(string ransomNote, string magazine) {
 </details>
 
 
-### [Data Structures C++](https://github.com/wDvy/wDvy/tree/main/Data%20Structures)
-### [More Algo implementations](https://github.com/wDvy/code-challenges/tree/main)
+#### [Data Structures C++](https://github.com/wDvy/wDvy/tree/main/Data%20Structures)
+#### [More Algo implementations](https://github.com/wDvy/code-challenges/tree/main)
 
 
 More Courses / Coursework:
