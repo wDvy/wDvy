@@ -28,9 +28,9 @@ Projects Currently Listed on Github:
 This project was the culmination of the semester's work in full-stack development. The project consists of three major parts: a Database (hosted on Azure and managed through Microsoft SQL server management studio), an ASP.NET API, and a front-end windows form admin panel application.   
 
 <details> 
-  <summary> <h3>API Code Example</h3> </summary>
+  <summary> <h3>API Code Example</h3> <p>  This Code snippet is pulled from the API portion of the project and covers 3 of 9 HTTPS requests handled by the API. </p> </summary>
   
-  This Code snippet is pulled from the API portion of the project and covers 3 of 9 HTTPS requests handled by the API.
+
 
 ```c#
 namespace ChessAPI.Controllers
@@ -110,7 +110,9 @@ Here is A full list of the requests the API handles through the Swagger API util
 ![Api List](Web Application Development/API.PNG)
 
 <details> 
-  <summary> <h3>Application Code Example</h3> </summary>
+  <summary> <h3>Application Code Example</h3> 
+  <p> Simple POST and GET requests pulled from the application. 
+  </summary>
   
 ```c#
         //POST request for Users
@@ -479,9 +481,10 @@ int removeduplicates(vector<int>& nums){
 
 
 <details> 
-  <summary> <h3>Hashmap - Ransom Note Problem</h3> </summary>
+  <summary> <h3>Hashmap - Ransom Note Problem</h3>
+  <p>Given two strings ransomNote and magazine, find out if you can construct the contents of ransomNote with the characters in magazine. Each character can only be used once.</p>
+  </summary>
 
-Given two strings ransomNote and magazine, find out if you can construct the contents of ransomNote with the characters in magazine. Each character can only be used once.
 
 ```cpp
 bool canConstruct(string ransomNote, string magazine) {
