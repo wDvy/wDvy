@@ -199,7 +199,9 @@ namespace ChessAPI.Controllers
         }
 ```
 </details>
-[Full Project](/Web Application Development)
+### [Full Project](https://github.com/wDvy/wDvy/tree/main/Web%20Application%20Development)
+
+
 
 ## Data Structures and Algorithms
 A quick example of some data structures and algorithms from Undergrad Courses:
