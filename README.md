@@ -23,7 +23,7 @@ Projects Currently Listed on Github:
 		First game development project for Speed ACM, built in Godot.
 
 # Undergrad Portfolio
-![]()
+![Uofl Seal](University_of_Louisville_seal.svg.png)
 
 
 ## Web Development Project
