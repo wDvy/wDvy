@@ -106,8 +106,6 @@ namespace ChessAPI.Controllers
 ```
 </details>
 
-Here is A full list of the requests the API handles through the Swagger API utility:
-![Api List](Web Application Development/API.PNG)
 
 <details> 
   <summary> <h3>Application Code Example</h3> 
@@ -202,7 +200,7 @@ Here is A full list of the requests the API handles through the Swagger API util
 A quick example of some data structures and algorithms from Undergrad Courses:
 
 <details> 
-  <summary> <h3>Binary Search Tree Implementation with Binary Search Algorithm</h3> </summary>
+  <summary> <h3>Binary Search Tree Implementation with Binary Search Algorithm</h3> <p> Example of C++ Code and Data structure understanding</p> </summary>
 
 ```c++
 #include "BST.h"
@@ -444,11 +442,10 @@ void BST::ResetTree(OrderType order) {
 </details>
 
 <details> 
-  <summary> <h3>Remove Duplicates</h3> </summary>
+  <summary> <h3>Remove Duplicates</h3> <p>Given an array of ints, remove any instance of the int where it appears more than 2 times. return the length of the array that would comprise the orignal array - any double duplicates.</p> </summary>
 
 ### Remove Duplicates II
 
-Given an array of ints, remove any instance of the int where it appears more than 2 times. return the length of the array that would comprise the orignal array - any double duplicates.
 
 ```cpp
 
