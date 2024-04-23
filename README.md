@@ -444,9 +444,6 @@ void BST::ResetTree(OrderType order) {
 <details> 
   <summary> <h3>Remove Duplicates</h3> <p>Given an array of ints, remove any instance of the int where it appears more than 2 times. return the length of the array that would comprise the orignal array - any double duplicates.</p> </summary>
 
-### Remove Duplicates II
-
-
 ```cpp
 
 int removeduplicates(vector<int>& nums){
