@@ -530,7 +530,7 @@ bool canConstruct(string ransomNote, string magazine) {
 	Class Diagram and Database Design
 </h3>
 <p>
-	Pulled from a group project, design of database for Basket web application.
+	Pulled from a group project, design of database for a UofL Basketball Team web application proposal.
 </p>
 </summary>
 
