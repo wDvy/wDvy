@@ -27,6 +27,7 @@ Projects Currently Listed on Github:
   <img src="University_of_Louisville_seal.svg.png" width="200" title="Uofl Seal">
 </p>
 
+Welcome! This is a collection of some work from my undergraduate expierence through the Computer Information Systems and Computer Science departments at the University of Louisville. Click on the name of the project for a drop down displaying either a code snippet from the project or a related image or file.
 
 ## Web Development
 This project was the culmination of the semester's work in full-stack development. The project consists of three major parts: a Database (hosted on Azure and managed through Microsoft SQL server management studio), an ASP.NET API, and a front-end Windows form admin panel application.   
