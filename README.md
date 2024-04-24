@@ -28,7 +28,7 @@ Projects Currently Listed on Github:
 </p>
 
 
-## Web Development Project
+## Web Development
 This project was the culmination of the semester's work in full-stack development. The project consists of three major parts: a Database (hosted on Azure and managed through Microsoft SQL server management studio), an ASP.NET API, and a front-end Windows form admin panel application.   
 
 <details> 
