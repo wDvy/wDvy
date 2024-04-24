@@ -516,7 +516,7 @@ bool canConstruct(string ransomNote, string magazine) {
 
 ## Explanation
 1. Create hashmap (in cpp as unordered_map) with type char and int named dictionary.
-2. for every character in string magazine, check if that character is in the hashmap (the if statement explicitly checking if the character found equals the .end() function which always returns true if the character is not within the hashmap(?))
+2. for every character in string magazine, check if that character is in the hashmap (the if statement explicitly checking if the character found equals the .end() function which always returns true if the character is not within the hashmap
 3. if it does not exist, add it to the hashmap, if it does exist, iterate it by one to show that there is more than one inside.
 4. then, iterate through every character in the ransomNote String. if the character exists within the hashmap, and its integer value (count) is greater than 0, remove it from the hashtable and continue. 
 5. if it does not exist within the hashtable, return false, as the ransomNote could not be created from the magazine. 
@@ -554,7 +554,7 @@ bool canConstruct(string ransomNote, string magazine) {
 </p>
 </summary>
 
-![Class Diagram]([https://github.com/wDvy/wDvy/blob/main/databasediagram.PNG](https://github.com/wDvy/wDvy/blob/main/classdiagram.PNG))
+![Class Diagram](https://github.com/wDvy/wDvy/blob/main/classdiagram.PNG)
 
 
 </details>
