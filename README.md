@@ -561,7 +561,7 @@ Some class and database diagrams that were created for a web application proposa
 
 </details>
 
-### [Full Project Proposal](https://github.com/wDvy/wDvy/tree/main/Systems%20Analysis%20and%20Design)
+#### [Full Project Proposal](https://github.com/wDvy/wDvy/tree/main/Systems%20Analysis%20and%20Design)
 
 
 
