@@ -525,6 +525,10 @@ bool canConstruct(string ransomNote, string magazine) {
 </details>
 
 
+#### [Data Structures C++](https://github.com/wDvy/wDvy/tree/main/Data%20Structures)
+#### [More Algo implementations](https://github.com/wDvy/code-challenges/tree/main)
+
+
 ## Systems Design
 
 <details>
@@ -555,20 +559,16 @@ bool canConstruct(string ransomNote, string magazine) {
 
 </details>
 
+### [Full Project Proposal](https://github.com/wDvy/wDvy/tree/main/Systems%20Analysis%20and%20Design)
 
-
-
-
-#### [Data Structures C++](https://github.com/wDvy/wDvy/tree/main/Data%20Structures)
-#### [More Algo implementations](https://github.com/wDvy/code-challenges/tree/main)
 
 
 ## More Courses / Coursework:
 
 - Automata Theory
+- Discrete Mathematics
 - [Analytical Programming (Python)](https://github.com/wDvy/wDvy/tree/main/Analytical%20Programming)
 - [Software Development I & II (C#)](https://github.com/wDvy/wDvy/tree/main/Software%20Development)
 - Design of Databases (Microsoft SQL Server)
-- [Systems Analysis and Design](https://github.com/wDvy/wDvy/tree/main/Systems%20Analysis%20and%20Design)
 
 
