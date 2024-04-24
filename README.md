@@ -534,6 +534,8 @@ bool canConstruct(string ransomNote, string magazine) {
 Some class and database diagrams that were created for a web application proposal to the UofL men's Basketball team. 
 
 ### [Application Proposal Powerpoint](https://github.com/wDvy/wDvy/blob/main/Inception%20Phase%20Powerpoint.pptx)
+Powerpoint used as initial pitch for men's basketball team web application.
+
 
 <details>
 <summary><h3>
