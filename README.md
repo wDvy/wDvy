@@ -531,12 +531,14 @@ bool canConstruct(string ransomNote, string magazine) {
 
 ## Systems Design
 
+Some class and database diagrams that were created for a web application proposal to the UofL men's Basketball team. 
+
 <details>
 <summary><h3>
 	Database Design
 </h3>
 <p>
-	Pulled from a group project, design of database for a UofL Basketball Team web application proposal.
+	Pulled from a group project, design of database for a web application.
 </p>
 </summary>
 
@@ -550,7 +552,7 @@ bool canConstruct(string ransomNote, string magazine) {
 	Class Diagram
 </h3>
 <p>
-	Pulled from a group project, design of database for a UofL Basketball Team web application proposal.
+	Pulled from a group project, design of the class structure of the website.
 </p>
 </summary>
 
