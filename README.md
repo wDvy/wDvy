@@ -534,7 +534,7 @@ bool canConstruct(string ransomNote, string magazine) {
 </p>
 </summary>
 
-![Class Diagram]()
+![Class Diagram](https://github.com/wDvy/wDvy/blob/main/databasediagram.PNG)
 
 
 </details>
