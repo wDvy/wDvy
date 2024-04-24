@@ -22,14 +22,14 @@ Projects Currently Listed on Github:
 - [Dungeon Crawler](https://github.com/speedacm/GameDevSHMUP)
 		First game development project for Speed ACM, built in Godot.
 
-# Undergrad Portfolio
+# Undergraduate Portfolio
 <p align="center">
   <img src="University_of_Louisville_seal.svg.png" width="200" title="Uofl Seal">
 </p>
 
 
 ## Web Development Project
-This project was the culmination of the semester's work in full-stack development. The project consists of three major parts: a Database (hosted on Azure and managed through Microsoft SQL server management studio), an ASP.NET API, and a front-end windows form admin panel application.   
+This project was the culmination of the semester's work in full-stack development. The project consists of three major parts: a Database (hosted on Azure and managed through Microsoft SQL server management studio), an ASP.NET API, and a front-end Windows form admin panel application.   
 
 <details> 
   <summary> <h3>API Code Example</h3> <p>  This Code snippet is pulled from the API portion of the project and covers 3 of 9 HTTPS requests handled by the API. </p> </summary>
@@ -516,13 +516,31 @@ bool canConstruct(string ransomNote, string magazine) {
 
 ## Explanation
 1. Create hashmap (in cpp as unordered_map) with type char and int named dictionary.
-2. for every character in string magazine, check if that character is in the hashmap (the if statement explicitly is checking if the character found equals the .end() function which always returns true if the character is not within the hashmap(?))
-3. if it does not exist, add it do the hashmap, if it does exist, iterate it by one to show that there is more than one inside.
-4. then, iterate through every character in the ransomNote String. if the character exists within the hashmap, and it's integer value (count) is greater than 0, remove it from the hashtable and continue. 
+2. for every character in string magazine, check if that character is in the hashmap (the if statement explicitly checking if the character found equals the .end() function which always returns true if the character is not within the hashmap(?))
+3. if it does not exist, add it to the hashmap, if it does exist, iterate it by one to show that there is more than one inside.
+4. then, iterate through every character in the ransomNote String. if the character exists within the hashmap, and its integer value (count) is greater than 0, remove it from the hashtable and continue. 
 5. if it does not exist within the hashtable, return false, as the ransomNote could not be created from the magazine. 
-6. If you successfully iterate through the entirety of the ransomNote with characters from the magazine string, than it can be created from it, so return true.
+6. If you successfully iterate through the entirety of the ransomNote with characters from the magazine string, then it can be created from it, so return true.
 
 </details>
+
+
+<details>
+<summary><h3>
+	Class Diagram and Database Design
+</h3>
+<p>
+	Pulled from a group project, design of database for Basket web application.
+</p>
+</summary>
+
+![Class Diagram]()
+
+
+</details>
+
+
+
 
 
 #### [Data Structures C++](https://github.com/wDvy/wDvy/tree/main/Data%20Structures)
