@@ -525,9 +525,11 @@ bool canConstruct(string ransomNote, string magazine) {
 </details>
 
 
+## Systems Design
+
 <details>
 <summary><h3>
-	Class Diagram and Database Design
+	Database Design
 </h3>
 <p>
 	Pulled from a group project, design of database for a UofL Basketball Team web application proposal.
@@ -535,6 +537,20 @@ bool canConstruct(string ransomNote, string magazine) {
 </summary>
 
 ![Class Diagram](https://github.com/wDvy/wDvy/blob/main/databasediagram.PNG)
+
+
+</details>
+
+<details>
+<summary><h3>
+	Class Diagram
+</h3>
+<p>
+	Pulled from a group project, design of database for a UofL Basketball Team web application proposal.
+</p>
+</summary>
+
+![Class Diagram]([https://github.com/wDvy/wDvy/blob/main/databasediagram.PNG](https://github.com/wDvy/wDvy/blob/main/classdiagram.PNG))
 
 
 </details>
