@@ -6,7 +6,7 @@
 Hello! My Name is Devin Ward, I'm a student interested in software and web development. I've collected some of my hosted projects and notable examples from my undergraduate classes below.
 
 
-## [Resume (Spring 2024)](DWResume2024-1.pdf)
+## [Resume (Spring 2024)](https://github.com/wDvy/wDvy/blob/main/DWResume2024-1_Redacted.pdf)
 
 ## Projects
 Projects Currently Listed on Github:
